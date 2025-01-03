@@ -2,4 +2,4 @@
 
 this project is created from local repo.
 
-created by ishant sharma.
+created by ishant sharma
